@@ -1,0 +1,11 @@
+datasets
+pandas
+numpy
+evaluate
+requests
+matplotlib
+seaborn
+transformers
+scikit-learn
+scipy
+torch
